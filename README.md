@@ -46,3 +46,5 @@ async def init():
 By using this program, I, Aztilux, will not be responsible for any banned accounts. Use at your own risk. Developers may update the page at any moment.
 
 This program was made in a few days and there is not a big chance I will be giving much more support to it. The code is not easy to use at all.
+
+Add me on Discord: @Azti
